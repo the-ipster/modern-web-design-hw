@@ -1,2 +1,2 @@
 # modern-web-design-hw
-tapestry is cool, actually.
+tapestry is pretty neat.
